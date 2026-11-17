@@ -1,2 +1,2 @@
-# TP1-Innovati-GITHUB-Desktop
+# TP1-valorisation-GITHUB-Desktop
 Repo For testing GITHUB-Desktop
